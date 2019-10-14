@@ -15,3 +15,5 @@
 | Kamilah	| Carlisle	| KamilahCar	| kamilah.carlisle@revature.net|
 | Nicolas       | Fajardo       | nicksideal    | nicolas.fajardo@revature.net |
 | Yedesdes      | Mudessir------| Yedesdes      |yedesdes.mudessir@revature.com|
+| Kristoffer	| Spencer	| Spencerk80	| whobanil80@linuxmail.org     |
+| Brian	| Coe	| bcoe1	| brian.coe@revature.net     |

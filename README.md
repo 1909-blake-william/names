@@ -3,8 +3,9 @@
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | Wyatt         | LaVoie        | wlavoie95     | wyatt.lavoie@revature.com    |
 | David		    | Quillen	    | David-Quillen9826| david.quillen@revature.net|
->>>>>>> branch 'master' of https://github.com/1909-blake-william/names.git
+
 | Takumi        | Shinohara     | curecoma      | takumi.shinohara@revature.com|
+>>>>>>> branch 'master' of https://github.com/1909-blake-william/names.git
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | David		    | Quillen	    | David-Quillen9826| david.quillen@revature.net|
 | Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.com|

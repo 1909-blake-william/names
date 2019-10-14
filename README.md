@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 | First Name    | Last Name     | GitHub Name       | email                        |
 | ---------     | ----------    | -----------       | ----------                   |
 | Blake         | Kruppa        | btkruppa          | blake.kruppa@revature.com    |
@@ -10,6 +9,6 @@
 | Boris         | Sun           | sunbor            | boris.sun@revature.net       |
 | Airton        | Prado         | aprado06          | airton.prado@revature.com    |
 | Jean          | George        | jeanjosephgeorge  | jean.joseph@outlook.com    | 
-| Hao           | Shen          | HaoSususudio      |bluehao85@gmail.com           |                  |
+| Hao           | Shen          | HaoSususudio      |bluehao85@gmail.com           |          
 | Yedesdes      | Mudessir      | Yedesdes          |yedesdes.mudessir@revature.com|
 

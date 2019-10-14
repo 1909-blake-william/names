@@ -1,7 +1,7 @@
 | First Name    | Last Name     | GitHub Name   | email                        |
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
-| Jae		| Hwang		| Jae-Hwang	| jae.hwang@revature.com       |
+| Jae		| Hwang		| Jae-Hwang	| jae.hwang@revature.net       |
 | Connor	| Fineran	| c-fineran	| connor.fineran@revature.net  |
 | Cliff         | Freeman       | Oathkeepre    | clifford.freeman@revature.net|
 | Wyatt         | LaVoie        | wlavoie95     | wyatt.lavoie@revature.net    |

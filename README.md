@@ -2,6 +2,7 @@
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 <<<<<<< HEAD
+| Takumi        | Shinohara     | curecoma      | takumi.shinohara@revature.com|
 | Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.com|
 =======
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |

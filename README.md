@@ -8,7 +8,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-| Wyatt         | LaVoie        | wlavoie95     | wyatt.lavoie@revature.com    |
 >>>>>>> 7ce2e7572a40efff09da3da1e5a8a9d1c8127cde
 | David		    | Quillen	    | David-Quillen9826| david.quillen@revature.net|
 

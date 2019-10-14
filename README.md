@@ -2,4 +2,4 @@
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
-| Jean          | George        | jeanjosephgeorge | jean.joseph@outlook.com    |
+| Jean          | George        | jeanjosephgeorge | jean.joseph@outlook.com   |

@@ -1,16 +1,9 @@
 | First Name    | Last Name     | GitHub Name   | email                        |
 | ---------     | ----------    | -----------   | ----------                   |
-| Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
-<<<<<<< HEAD
-<<<<<<< HEAD
-| David		    | Quillen	    | David-Quillen9826| david.quillen@revature.net|
-=======
-<<<<<<< HEAD
-=======
 | Takumi        | Shinohara     | curecoma      | takumi.shinohara@revature.com|
->>>>>>> f49f2f0f1f8aedcb39eee2aac016a352757f72f0
+| Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
+| David		    | Quillen	    | David-Quillen9826| david.quillen@revature.net|
 | Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.com|
-=======
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | Boris         | Sun           | sunbor        | boris.sun@revature.net       |
 | Airton        | Prado         | aprado06      | airton.prado@revature.com    |

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 | First Name    | Last Name     | GitHub Name   | email                        |
 | ---------     | ----------    | -----------   | ----------                   |
 <<<<<<< HEAD
@@ -68,3 +69,19 @@
 >>>>>>> 5bc3d3febdb7b2f85fb9334ff8eac4c63720bc93
 >>>>>>> a1e377a10c13918803300593a5abfedb64370fe0
 >>>>>>> ffc1a876a9549315a4533071cf253d81048d0b9b
+=======
+| First Name    | Last Name     | GitHub Name       | email                        |
+| ---------     | ----------    | -----------       | ----------                   |
+| Blake         | Kruppa        | btkruppa          | blake.kruppa@revature.com    |
+| Cliff         | Freeman       | Oathkeepre        | clifford.freeman@revature.net|
+| Wyatt         | LaVoie        | wlavoie95         | wyatt.lavoie@revature.net    |
+| David		    | Quillen	    | David-Quillen9826 | david.quillen@revature.net|
+| Takumi        | Shinohara     | curecoma          | takumi.shinohara@revature.com|
+| Gabrielle     | Griggs        | gabbyg53          | gabrielle.griggs@revature.com|
+| Boris         | Sun           | sunbor            | boris.sun@revature.net       |
+| Airton        | Prado         | aprado06          | airton.prado@revature.com    |
+| Jean          | George        | jeanjosephgeorge  | jean.joseph@outlook.com    | 
+| Hao           | Shen          | HaoSususudio      |bluehao85@gmail.com           |                  |
+| Yedesdes      | Mudessir      | Yedesdes          |yedesdes.mudessir@revature.com|
+
+>>>>>>> b12968ef0b75ba9f65dfc0b18995117bee1be3c7

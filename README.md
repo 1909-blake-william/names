@@ -2,7 +2,7 @@
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 <<<<<<< HEAD
-| Wyatt         | LaVoie        | wlavoie95     | wyatt.lavoie@revature.com    |
+| Wyatt         | LaVoie        | wlavoie95     | wyatt.lavoie@revature.net    |
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD

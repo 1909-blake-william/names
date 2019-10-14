@@ -17,4 +17,4 @@
 | Yedesdes      | Mudessir------| Yedesdes      |yedesdes.mudessir@revature.com|
 | Takumi        | Shinohara     | curecoma      | takumi.shinohara@revature.com|
 | Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.com|
-
+| Joshua        | O'Silas       | Monochromespecs | joshua.osilas@revature.net |

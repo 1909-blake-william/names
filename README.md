@@ -2,7 +2,7 @@
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 <<<<<<< HEAD
-| Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.com|
+| Gabrielle     | Griggs        | gabbyg53      | gabrielle.griggs@revature.net|
 =======
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | Boris         | Sun           | sunbor        | boris.sun@revature.net       |

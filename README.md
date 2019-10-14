@@ -17,5 +17,5 @@
 | Yedesdes      | Mudessir------| Yedesdes      |yedesdes.mudessir@revature.net|
 | Kristoffer	| Spencer	| Spencerk80	| whobanil80@linuxmail.org     |
 | Brian	| Coe	| bcoe1	| brian.coe@revature.net     |
-| Christopher   | Sims          | helppawn      | christopher.sims@revature.net|
+| Christopher   | Sims          | helppaw      | christopher.sims@revature.net|
 | Tim           | Clifton       | goodSirTimothy| :(sad Tim is sad             |

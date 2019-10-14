@@ -2,5 +2,5 @@
 | ---------     | ----------    | -----------   | ----------                   |
 | Blake         | Kruppa        | btkruppa      | blake.kruppa@revature.com    |
 | ---------     | ----------    | -----------   | ----------                   |
-| Boris         | Sun           | mwahahaha     | boris.sun@revature.net       |
+| Boris         | Sun           | sunbor        | boris.sun@revature.net       |
 
